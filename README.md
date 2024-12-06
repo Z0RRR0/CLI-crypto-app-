@@ -1,0 +1,2 @@
+About:
+with the help of this app a user can get to know about Latest pricing of current cryptocurrencies from any respected APIs. The default API used in this code is hardcoded and user can use only that one because I was currently unable to find multi API support freely available since nomics was one of the best for these services but it is shutdown. I will update the code if I buy any domain URL or if any other website serves like nomics.com... till then you guys can enjoy this code and keep experimenting.
